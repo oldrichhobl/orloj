@@ -1,5 +1,7 @@
 {
   "name": "orloj",
-  "integrations": {},
+  "integrations": {
+    "cordova": {}
+  },
   "type": "angular"
 }
